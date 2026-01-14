@@ -26,8 +26,12 @@ This is an embedded system project using Arduino.
 - Connecting Wires
 - Bread board
 
-## Block Diagram
+## BLOCK DIAGRAM
 <img width="946" height="749" alt="Screenshot 2026-01-11 193647" src="https://github.com/user-attachments/assets/58875cc1-5aae-484e-ba3b-41cb3a039ef9" />
+
+## CIRCUIT DIAGRAM
+<img width="1918" height="1152" alt="image" src="https://github.com/user-attachments/assets/804755d5-0c48-4213-ade9-f9eb6e31909e" />
+
 
 ## WORKING PRINCIPLE
 ### RED light:
