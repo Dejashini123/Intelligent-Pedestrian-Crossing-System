@@ -40,6 +40,20 @@ Circuit diagram is created using Tinkercad for reference.
   - Pedestrian gate opens
   - Zebra crossing lines move
 
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/0bec1a58-bfe1-46b5-b498-0aa04e84a952" />
+
+
+
+
+### GREEN light:
+  - Vehicle gate opens
+  - Pedestrian gate closes
+  - Zebra crossing stops
+
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/cef72a24-fe98-4460-b881-a03a2af5a671" />
+
+
+
 ## CODE
 ```
 #include <Servo.h>
@@ -110,14 +124,15 @@ void loop() {
 }
 ```
 
-### GREEN light:
-  - Vehicle gate opens
-  - Pedestrian gate closes
-  - Zebra crossing stops
 
 ## Applications
 - Smart pedestrian crossings
 - School zones
 - High traffic areas
+
+## Result
+The intelligent pedestrian crossing system was successfully implemented using Arduino.  
+The system effectively controls gates, traffic signals, and moving zebra crossing lines as intended.
+
 
   
