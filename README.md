@@ -31,6 +31,7 @@ This is an embedded system project using Arduino.
 
 ## CIRCUIT DIAGRAM
 <img width="1918" height="1152" alt="image" src="https://github.com/user-attachments/assets/804755d5-0c48-4213-ade9-f9eb6e31909e" />
+Circuit diagram is created using Tinkercad for reference. 
 
 
 ## WORKING PRINCIPLE
